@@ -1,4 +1,7 @@
 import React from 'react'
+import { NavLink, Link } from 'react-router-dom';
+
+// the Link is the replacement of the a tag becuase a tag makes a page refreshed when clicked 
 
 export default function Header() {
     return (

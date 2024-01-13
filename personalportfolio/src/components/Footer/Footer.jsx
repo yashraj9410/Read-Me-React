@@ -1,4 +1,6 @@
 import React from 'react'
+import {Link,NavLink} from 'react-router-dom'
+// link , navlink ae part of react-router-dom
 
 export default function Footer() {
     return (
