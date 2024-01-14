@@ -8,22 +8,19 @@ export default function About() {
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                     <div className="md:5/12 lg:w-5/12">
                         <img
-                            src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                            src="https://kit8.net/wp-content/uploads/edd/2022/04/software_developer_preview.jpg"
                             alt="image"
                         />
                     </div>
                     <div className="md:7/12 lg:w-6/12">
                         <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
-                            React development is carried out by passionate developers
+                            Meet Yash Raj, a talented MERN (MongoDB, Express.js, React, Node.js) Developer.
                         </h2>
                         <p className="mt-6 text-gray-600">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                            accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                            aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                            With a passion for crafting seamless and innovative web applications. With a keen eye for detail and a knack for problem-solving, Yash thrives in the dynamic world of full-stack development. Armed with expertise in building robust back-end systems using Node.js and Express.js, Yash seamlessly integrates databases, ensuring optimal performance and scalability. On the front end, Yash brings creativity to life with React, creating engaging user interfaces that captivate and delight users. Always up-to-date with the latest industry trends.
                         </p>
                         <p className="mt-4 text-gray-600">
-                            Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                            Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                            I am continously increasing my productivity and problem solving skills by solving questions on leetcode and learning DSA.
                         </p>
                     </div>
                 </div>
